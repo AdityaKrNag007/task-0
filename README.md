@@ -55,7 +55,7 @@ pip install -r requirements.txt
 Execute each script from the root `task-0` directory:
 
 ### Question 1: List Analyzer
-Reads an integer $N$ followed by space-separated integers to compute statistics manually without built-in functions[cite: 2].
+Reads an integer $N$ followed by space-separated integers to compute statistics manually without built-in functions.
 ```bash
 python q1.py
 ```
@@ -66,13 +66,13 @@ python q1.py
 ```
 
 ### Question 2: Lists, Functions and `.copy()`
-Runs the function demonstrating non-destructive list manipulation, filtering negative numbers, and sorting[cite: 2].
+Runs the function demonstrating non-destructive list manipulation, filtering negative numbers, and sorting.
 ```bash
 python q2.py
 ```
 
 ### Question 3: Prime Numbers Using `for-else`
-Checks for primes using Python's `for-else` syntax and prints all primes up to $N$[cite: 2].
+Checks for primes using Python's `for-else` syntax and prints all primes up to $N$.
 ```bash
 python q3.py
 ```
@@ -82,19 +82,19 @@ python q3.py
 ```
 
 ### Question 4: NumPy Basics
-Performs vectorized calculations, statistical summaries, bonus marks additions, and boolean indexing[cite: 2].
+Performs vectorized calculations, statistical summaries, bonus marks additions, and boolean indexing.
 ```bash
 python q4.py
 ```
 
 ### Question 5: Pandas and CSV Analysis
-Loads `data/student_performance.csv`, computes score and attendance metrics, and exports `data/processed_student_performance.csv`[cite: 1, 2].
+Loads `data/student_performance.csv`, computes score and attendance metrics, and exports `data/processed_student_performance.csv`.
 ```bash
 python q5.py
 ```
 
 ### Question 6: Visualizing Data with Matplotlib
-Processes the dataset and saves all 4 plot images into the `plots/` folder[cite: 1, 2].
+Processes the dataset and saves all 4 plot images into the `plots/` folder.
 ```bash
 python q6.py
 ```
