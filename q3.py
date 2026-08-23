@@ -5,8 +5,8 @@ def is_prime(n):
     for i in range(2, int(n**0.5) + 1):
         if n % i == 0:
             break
-    else:                  # This else corresponds to the for loop, not the if statement. It executes only if the loop wasn't broken, meaning no divisors were found.   
-        return True
+    else:                  # This else corresponds to the for loop, not the if statement.
+        return True        #It executes only if the loop wasn't broken, meaning no divisors were found.
 
     return False
 
