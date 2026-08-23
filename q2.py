@@ -2,7 +2,7 @@ def process_list(numbers):
 
     modified_list = numbers.copy()
 
-    for num in modified_list[:]:
+    for num in modified_list[:]:  
         if num < 0:
             modified_list.remove(num)
 
