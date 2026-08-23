@@ -30,7 +30,7 @@ task-0/
     ├── study_vs_score.png
     ├── score_distribution.png
     └── custom_plot.png
-
+```
 ---
 
 ## Requirements & Installation
