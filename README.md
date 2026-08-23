@@ -6,7 +6,7 @@
 ---
 
 ## Overview
-This repository contains the complete solutions for **Task 0**, covering core Python fundamentals, list operations, functions, control flow (`for-else`), array operations with **NumPy**, tabular data processing with **Pandas**, and data visualization using **Matplotlib**[cite: 2].
+This repository contains the complete solutions for **Task 0**, covering core Python fundamentals, list operations, functions, control flow (`for-else`), array operations with **NumPy**, tabular data processing with **Pandas**, and data visualization using **Matplotlib**.
 
 ---
 
@@ -37,10 +37,10 @@ task-0/
 
 ## Requirements & Installation
 
-This project requires **Python 3.8+** and the following libraries[cite: 2]:
-* `numpy`[cite: 2]
-* `pandas`[cite: 2]
-* `matplotlib`[cite: 2]
+This project requires **Python 3.8+** and the following libraries:
+* `numpy`
+* `pandas`
+* `matplotlib`
 
 Install dependencies via `requirements.txt`:
 
